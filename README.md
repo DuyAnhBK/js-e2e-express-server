@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AnhHD14/test-az-devops/_apis/build/status/DuyAnhBK.js-e2e-express-server?branchName=main)](https://dev.azure.com/AnhHD14/test-az-devops/_build/latest?definitionId=3&branchName=main)
 ---
 page_type: sample
 languages:
