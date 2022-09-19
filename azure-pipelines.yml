@@ -26,5 +26,5 @@ steps:
     npm run build
   displayName: 'npm install and build'
 
-- script: npm run test:ci
+- script: npm run test
   displayName: 'npm test'
